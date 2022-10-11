@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "sportsmatchupv2db71ca9b": {}
+      },
+      "api": {
+        "sportsmatchupv2": {}
       }
     }
   }
