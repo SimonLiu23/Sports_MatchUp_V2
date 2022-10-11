@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify35f35a0c1f704-staging-224311-authRole",
+      "UnauthRoleArn": "arn:aws:iam::039251286415:role/amplify-amplify35f35a0c1f704-staging-224311-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::039251286415:role/amplify-amplify35f35a0c1f704-staging-224311-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amplify35f35a0c1f704-staging-224311-deployment",
+      "UnauthRoleName": "amplify-amplify35f35a0c1f704-staging-224311-unauthRole",
+      "StackName": "amplify-amplify35f35a0c1f704-staging-224311",
+      "StackId": "arn:aws:cloudformation:us-west-2:039251286415:stack/amplify-amplify35f35a0c1f704-staging-224311/eb4edfd0-48ec-11ed-a295-0a34faa279b7",
+      "AmplifyAppId": "d37wggne19h1di"
+    },
+    "categories": {
+      "auth": {
+        "sportsmatchupv2db71ca9b": {}
+      }
+    }
+  }
+}
