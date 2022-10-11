@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3cf9a2c19",
+  "policyUUID": "cf9a2c19",
+  "bucketName": "sportsmatchupv2e1804194a7424fc0b7492cdf1ae202b6",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
